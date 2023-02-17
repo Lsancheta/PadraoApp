@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PadraoApp</string>
+    <string name="entrar">Entrar</string>
+    <string name="chkl_sanitarios">CHECKLIST SANITARIOS - PROTEKA</string>
+    <string name="txt_btn_photo_string">Obter Facial</string>
+    <string name="btn_camera">Abrir Câmera</string>
+</resources>
