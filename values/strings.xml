@@ -4,4 +4,18 @@
     <string name="chkl_sanitarios">CHECKLIST SANITARIOS - PROTEKA</string>
     <string name="txt_btn_photo_string">Obter Facial</string>
     <string name="btn_camera">Abrir Câmera</string>
+    <string name="chkl_procedimento">Procedimento</string>
+    <string name="txt_rd_btn_procedimento1">Concorrente</string>
+    <string name="txt_rd_btn_procedimento2">Terminal</string>
+    <string name="txt_revisao">Revisao</string>
+    <string name="txt_chkColeta">Coleta de Lixo</string>
+    <string name="txt_chkPiso">Piso</string>
+    <string name="txt_chkVaso">Vaso Sanitário</string>
+    <string name="txt_chkPia">Pia</string>
+    <string name="txt_chkPHigienico">Papel Higiênico</string>
+    <string name="txt_chkPToalha">Papel Toalha</string>
+    <string name="txt_chkAGel">Alcool em Gel</string>
+    <string name="txt_chkSabonete">Sabonete</string>
+    <string name="txt_btnSalvar">Salvar</string>
+
 </resources>
