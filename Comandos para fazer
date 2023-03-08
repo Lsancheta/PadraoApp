@@ -1,0 +1,10 @@
+Instalar Node Js
+instalar flutterfire cli
+instalar package via cmd
+flutter pub add provider
+flutter pub add firebase_core
+flutter pub add firebase_auth
+flutter pub add firebase_database
+
+criar novo projeto e linkar no proteka-app no firebase
+pesquisar algum meio de login com re ou utilizar o email para acompanhar o app
